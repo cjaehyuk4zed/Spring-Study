@@ -5,3 +5,8 @@ Spring Boot / JPA / Gradle / Hibernate / Thymeleaf
 정복 로드맵
 
 입문 – 핵심 원리 – 웹 MVC – DB 데이터 접근 기술 – 실전! 스프링부트
+
+log관련 내용이 꽤 민감한 내용
+업계 종사자들은 system.out.println이 아니라 무조건 log로 출력해야된다
+log로 남겨야 심각한 에러만 따로 모으는 등, log파일들 관리가 된다
+취업준비생들은 log경험을 잘 해보지 못했을 것이다. 이 강의에서는 log를 대략적만 설명한다.
